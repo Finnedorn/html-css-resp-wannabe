@@ -129,7 +129,26 @@ img {
  ************************************************/
 
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 480px) {
+    .lessons .col {
+        width: 100%;
+    }
+    .col {
+        width: 100%;
+        padding: 30px;
+    }
+    .steps .col {
+        width: 100%;
+    }
+    .why-us .col-left {
+        width: 100%;
+    }
+    .why-us .col-right {
+        width: 100%;
+    }
+ }
+
+ @media screen and (max-width: 768px ) {
     .container {
         width: 100%;
     }
@@ -144,5 +163,3 @@ img {
         width: calc(100% / 2);
     }
  }
-
- 
