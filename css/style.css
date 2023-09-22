@@ -146,7 +146,16 @@ img {
     .why-us .col-right {
         width: 100%;
     }
- }
+    .steps {
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+    }
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding: 3rem 0;
+    }
+}
 
  @media screen and (max-width: 768px ) {
     .container {
@@ -162,10 +171,10 @@ img {
     .col {
         width: calc(100% / 2);
     }
- }
+}
 
  @media screen and (min-width: 768px) and (max-width:1160px) {
     .container {
         width: 100%;
     }
- }
+}
