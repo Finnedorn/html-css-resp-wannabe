@@ -1,1 +1,1 @@
-esercizio di implementazione di attribruti media quary in modo da rendere la pagina quanto più responsive possobile sulla base di un mockup fornito.
+esercizio di implementazione di attribruti media quary in modo da rendere la pagina quanto più responsive possibile sulla base di un mockup fornito.
